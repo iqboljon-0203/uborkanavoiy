@@ -1,0 +1,6 @@
+data
+public/uploads
+.env
+.env*.local
+.claude
+admin-parol.txt

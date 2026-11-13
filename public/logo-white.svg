@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 426 120" role="img" aria-label="Uborka Navoiy">
+  <rect width="120" height="120" rx="30" fill="#D7141F"/>
+  <path d="M33 36V70a25 25 0 0 0 50 0V62" fill="none" stroke="#fff" stroke-width="17" stroke-linecap="round"/>
+  <path d="M83 15c2 12 6 16 18 18-12 2-16 6-18 18-2-12-6-16-18-18 12-2 16-6 18-18Z" fill="#fff"/>
+  <g transform="translate(142 4.300) scale(.72)" fill="none" stroke="#fff" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 20V58a22 22 0 0 0 44 0V20"/>
+    <path d="M66 20V80H91a15.500 15.500 0 0 0 0-31H66M66 20H89a14.500 14.500 0 0 1 0 29"/>
+    <circle cx="156" cy="50" r="30"/>
+    <path d="M208 80V20H234a16 16 0 0 1 0 32H208M232 52L250 80"/>
+    <path d="M272 20V80M312 20L272 58M286 45L314 80"/>
+    <path d="M330 80L354 20L378 80M339 60H369"/>
+  </g>
+  <g transform="translate(143 70.500) scale(.44)" fill="none" stroke="#FF6A72" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 80V20L44 80V20"/>
+    <path d="M120 80L144 20L168 80M129 60H159"/>
+    <path d="M244 20L268 80L292 20"/>
+    <circle cx="398" cy="50" r="30"/>
+    <path d="M504 20V80"/>
+    <path d="M580 20L604 50L628 20M604 50V80"/>
+  </g>
+</svg>

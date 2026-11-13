@@ -1,0 +1,14 @@
+node_modules
+.next
+out
+.vercel
+.env*.local
+.env
+*.tsbuildinfo
+next-env.d.ts
+# Admin panelning lokal (kompyuterdagi) ma'lumotlari
+/data
+/public/uploads
+admin-parol.txt
+.vercel
+.env*
