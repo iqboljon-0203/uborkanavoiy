@@ -31,7 +31,7 @@ export const defaultContent: Content = {
       "Uzum Market filiallari",
       "Davlat tashkilotlari va yirik obyektlar",
     ],
-    pricesReviewed: false,
+    pricesReviewed: true,
   },
   texts: {
     heroEyebrow: { uz: "Navoiyda professional tozalash xizmati", ru: "Профессиональный клининг в Навои" },
@@ -101,7 +101,7 @@ export const defaultContent: Content = {
         ru: ["Сбор строительной пыли", "Мойка окон и рам", "Чистка пола и плинтусов", "Удаление следов краски и клея"],
       },
       unit: "m2",
-      price: 12000,
+      price: 15000,
       minPrice: 500000,
     },
     {
@@ -234,7 +234,7 @@ export const defaultContent: Content = {
       slug: "dezinfeksiya",
       image: "/images/dezinfeksiya.jpg",
       audience: ["home", "biz"],
-      title: { uz: "Dezinfeksiya", ru: "Дезинфекция" },
+      title: { uz: "Dezinfeksiya xizmati", ru: "Дезинфекция" },
       short: { uz: "Xonadon, ofis va jamoat binolari uchun.", ru: "Для квартир, офисов и общественных зданий." },
       description: {
         uz: "Xonadon, ofis va jamoat binolarida professional dezinfeksiya. Mutaxassislarimiz himoya kiyimi va maxsus jihozlar bilan ishlaydi.",
@@ -245,14 +245,14 @@ export const defaultContent: Content = {
         ru: ["Осмотр помещения", "Обработка поверхностей", "Обработка воздуха", "Рекомендации"],
       },
       unit: "m2",
-      price: 3000,
+      price: 20000,
       minPrice: 300000,
     },
     {
       slug: "oyna-va-fasad",
       image: "/images/fasad.jpg",
       audience: ["home", "biz"],
-      title: { uz: "Oyna va fasad", ru: "Окна и фасады" },
+      title: { uz: "Oyna va fasad yuvish", ru: "Окна и фасады" },
       short: { uz: "Baland binolar oynasi va fasadini yuvamiz.", ru: "Моем окна и фасады высоких зданий." },
       description: {
         uz: "Xonadon oynalaridan tortib baland binolarning shisha fasadigacha yuvamiz. Balandlikda xavfsizlik jihozlari bilan ishlaymiz.",
@@ -263,14 +263,14 @@ export const defaultContent: Content = {
         ru: ["Мойка окон с двух сторон", "Чистка рам", "Мойка стеклянного фасада", "Сушка без разводов"],
       },
       unit: "m2",
-      price: 10000,
+      price: 15000,
       minPrice: 300000,
     },
     {
       slug: "bruschatka",
       image: "/images/bruschatka.jpg",
       audience: ["home", "biz"],
-      title: { uz: "Bruschatka", ru: "Брусчатка" },
+      title: { uz: "Bruschatka yuvish", ru: "Мойка брусчатки" },
       short: { uz: "Hovli va yo‘laklarga asl rangini qaytaramiz.", ru: "Возвращаем цвет дворам и дорожкам." },
       description: {
         uz: "Hovli, yo‘lak va avtoturargohdagi bruschatkani yuqori bosimli apparat bilan yuvamiz. Mox, loy va dog‘lar ketadi.",
@@ -281,7 +281,7 @@ export const defaultContent: Content = {
         ru: ["Мойка под высоким давлением", "Чистка швов", "Выведение пятен", "Уборка территории"],
       },
       unit: "m2",
-      price: 6000,
+      price: 15000,
       minPrice: 300000,
     },
     {
