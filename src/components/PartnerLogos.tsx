@@ -85,11 +85,11 @@ export const PARTNERS_LIST: Partner[] = [
     category: { uz: "Mehmonxona va majmua", ru: "Отель и комплекс" },
     logo: (
       <Image
-        src="/logos/tinchlik-plaza.png"
+        src="/logos/tinchlik-plaza-icon.png"
         alt="Tinchlik Plaza"
         width={28}
         height={28}
-        style={{ objectFit: "contain", width: 28, height: 28, borderRadius: "50%", background: "#fff" }}
+        style={{ objectFit: "cover", width: 28, height: 28, borderRadius: "50%" }}
       />
     ),
   },
