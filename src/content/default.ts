@@ -324,9 +324,12 @@ export const defaultContent: Content = {
   works: [],
   reviews: [],
   videos: [
-    { id: "v1", url: "https://www.instagram.com/reel/DdoLViXBU2z/", title: { uz: "Yong‘indan keyingi oshxona", ru: "Кухня после пожара" } },
-    { id: "v2", url: "https://www.instagram.com/reel/Dej_m26MPlT/", title: { uz: "Malik Karvon Family Park", ru: "Malik Karvon Family Park" } },
-    { id: "v3", url: "https://www.instagram.com/reel/DfJoUmvMw_a/", title: { uz: "Fasad va bruschatka", ru: "Фасад и брусчатка" } },
+    { id: "v1", url: "https://www.instagram.com/reel/DfnD_31sP_Y/", title: { uz: "Fasad va bruschatka", ru: "Фасад и брусчатка" } },
+    { id: "v2", url: "https://www.instagram.com/reel/DfJoUmvMw_a/", title: { uz: "Ximchistka va tozalash", ru: "Химчистка и уборка" } },
+    { id: "v3", url: "https://www.instagram.com/reel/DfCtOXZss-f/", title: { uz: "Navoiyda tozalash ishlari", ru: "Уборка в Навои" } },
+    { id: "v4", url: "https://www.instagram.com/reel/DXZm5OsjCcb/", title: { uz: "Tozalashni professionallarga topshiring", ru: "Доверьте уборку профессионалам" } },
+    { id: "v5", url: "https://www.instagram.com/reel/DTXoI5BjGsY/", title: { uz: "Bruschatka va fasad yuvish", ru: "Мойка брусчатки и фасада" } },
+    { id: "v6", url: "https://www.instagram.com/reel/DTDZOKFjKS3/", title: { uz: "Uy va ofis ximchistkasi", ru: "Химчистка дома и офиса" } },
   ],
   faq: [
     {
